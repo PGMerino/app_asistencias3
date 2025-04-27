@@ -1,0 +1,2 @@
+C:/Users/Paula/Downloads/app_asistencias-master/android/app/.cxx/Debug/y513k2w9/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Paula/Downloads/app_asistencias-master/android/app/.cxx/Debug/y513k2w9/x86_64/CMakeFiles/rebuild_cache.dir

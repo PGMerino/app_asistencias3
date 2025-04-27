@@ -1,0 +1,2 @@
+C:/Users/Admin/Desktop/Paula/App_asistencias/android/app/.cxx/Debug/2k5i6l1t/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Paula/App_asistencias/android/app/.cxx/Debug/2k5i6l1t/armeabi-v7a/CMakeFiles/rebuild_cache.dir
